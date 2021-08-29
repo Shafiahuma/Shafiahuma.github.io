@@ -45,19 +45,20 @@ section {
 
 .a_cont {
     color: #34495e;
-    opacity: 0.6;
+    opacity: 0.4;
     text-decoration: none;
 }
 
 .a_style {
     color: #d2dae2;
-    opacity: 0.3;
+    opacity: 0.4;
     text-decoration: none;
 }
 
 .a_style:hover {
     color: #d2dae2;
     opacity: 1;
+    font-weight: bold;
 }
 
 .src_style {
